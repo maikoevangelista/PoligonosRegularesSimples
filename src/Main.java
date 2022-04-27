@@ -1,4 +1,3 @@
-// Abaixo segue um exemplo de código que você pode ou não utilizar
 import java.io.IOException;
 import java.util.Scanner;
 
